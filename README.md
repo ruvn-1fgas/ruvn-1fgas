@@ -45,4 +45,3 @@
 [![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
 [![Codewars Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=codewars&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/codewars)
 [![White Dream](https://github-readme-stats.vercel.app/api/pin/?username=frosty-dev&repo=white&theme=transparent&hide_border=true)](https://github.com/frosty-dev/white)
-</p>
