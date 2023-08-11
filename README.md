@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=900&duration=3000&pause=1000&color=4C8EDA&background=15151500&width=435&lines=Rustam+Rasimovich;C%2B%2B%2FPython+Developer)](https://github.com/ruvn-1fgas)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&weight=900&duration=3000&pause=1000&vCenter=true&color=4C8EDA&background=15151500&width=435&lines=Rustam+Rasimovich;C%2B%2B%2FPython+Developer)](https://github.com/ruvn-1fgas)
 
 - 🌎 **Dev from Kirov, Russia.**
 - 🔭 **Currently working on Python scrappers and parsers.**
@@ -34,6 +32,7 @@
 ## Stats 📊
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruvn-1fgas&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruvn-1fgas&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 <a href="https://www.codewars.com/users/ruvn-1fgas">    
