@@ -4,8 +4,6 @@
 - 🔭 **Currently working on Python scrappers and parsers.**
 - 🚹 **Pronounce: He/Him**
 
-## Inclines
-
 ## Stack 🗼
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![GTK](https://img.shields.io/badge/-GTK-090909?style=for-the-badge&logo=gtk)
