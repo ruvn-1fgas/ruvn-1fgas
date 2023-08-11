@@ -4,6 +4,8 @@
 - 🔭 **Currently working on Python scrappers and parsers.**
 - 🚹 **Pronounce: He/Him**
 
+## Inclines
+
 ## Stack 🗼
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![GTK](https://img.shields.io/badge/-GTK-090909?style=for-the-badge&logo=gtk)
@@ -40,7 +42,7 @@
 </a>
 
 ## Projects 📁
-[![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://githubcom/ruvn-1fgas/Image-Deduplicator)
-[![Codewars Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=codewars&theme=transparent&hide_border=true)](https://githubcom/ruvn-1fgas/codewars)
+[![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
+[![Codewars Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=codewars&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/codewars)
 [![White Dream](https://github-readme-stats.vercel.app/api/pin/?username=frosty-dev&repo=white&theme=transparent&hide_border=true)](https://github.com/frosty-dev/white)
 </p>
