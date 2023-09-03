@@ -40,7 +40,6 @@
 
 ## Projects 📁
 [![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
-[![Codewars Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=codewars&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/codewars)
 
 [![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode)
 [![LeetCode Saver](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode-saver&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode-saver)
