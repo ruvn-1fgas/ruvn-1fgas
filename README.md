@@ -26,7 +26,6 @@
 ## Find me 🔍
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/ruvn-1fgas)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/ruvn-1fgas/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/t138szx)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/t138szx)
 
 ## Stats 📊
