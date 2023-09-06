@@ -32,11 +32,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruvn-1fgas&theme=transparent&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruvn-1fgas&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Codewars Badge](https://github.r2v.ch/codewars?user=ruvn-1fgas&top_languages=true&name=true&theme=gradient)
 
-<a href="https://www.codewars.com/users/ruvn-1fgas">    
-<img style="width: 350px"src="https://github.r2v.ch/codewars?user=ruvn-1fgas&top_languages=true&name=true&theme=gradient" />
-</a>
-
+<!-- <a href="https://www.codewars.com/users/ruvn-1fgas">    
+    <img style="width: 350px"src="https://github.r2v.ch/codewars?user=ruvn-1fgas&top_languages=true&name=true&theme=gradient" />
+</a> -->
 ## Projects 📁
 [![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
 [![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode)
