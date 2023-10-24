@@ -28,13 +28,12 @@
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![BYOND](https://img.shields.io/badge/-BYOND-090909?style=for-the-badge&logo=byond)
 
-![Kali](https://img.shields.io/badge/-Kali-090909?style=for-the-badge&logo=kali-linux)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-
-
 ## Toolchain 🛠
 ![Visual Code Insiders](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=21b299)
 ![Doxygen](https://img.shields.io/badge/-Doxygen-090909?style=for-the-badge&logo=doxygen)
+
+![Kali](https://img.shields.io/badge/-Kali-090909?style=for-the-badge&logo=kali-linux)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 
 ## Find me 🔍
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/ruvn-1fgas)
