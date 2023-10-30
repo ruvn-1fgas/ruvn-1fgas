@@ -53,4 +53,4 @@
 [![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
 [![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode)
 [![LeetCode Saver](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode-saver&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode-saver)
-[![White Dream](https://github-readme-stats.vercel.app/api/pin/?username=frosty-dev&repo=white&theme=transparent&hide_border=true)](https://github.com/frosty-dev/white)
+[![White Dream](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=white_aleph&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/white_aleph)
