@@ -42,7 +42,7 @@
 
 ## Stats 📊
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruvn-1fgas&theme=transparent&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&hide_rank=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruvn-1fgas&theme=transparent&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruvn-1fgas&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 <a href="https://www.codewars.com/users/ruvn-1fgas">    
