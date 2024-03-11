@@ -3,6 +3,9 @@
 - 🌎 **Dev from Kirov, Russia.**
 - 🔭 **Currently working on Python scrappers and parsers.**
 - 🚹 **Pronounce: He/Him**
+-  ![byond icon](https://avatars.githubusercontent.com/u/4378955?s=16&v=4.png) **White Dream maintainer**
+
+**White Dream maintainer.**
 
 ## Stack 🗼
 
