@@ -5,8 +5,6 @@
 - 🚹 **Pronounce: He/Him**
 -  ![byond icon](https://avatars.githubusercontent.com/u/4378955?s=16&v=4.png) **White Dream maintainer**
 
-**White Dream maintainer.**
-
 ## Stack 🗼
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
