@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&weight=900&duration=3000&pause=1000&vCenter=true&color=4C8EDA&background=15151500&width=435&lines=Rustam+Rasimovich;C%2B%2B%2FPython+Developer)](https://github.com/ruvn-1fgas)
 
 - 🌎 **Dev from Kirov, Russia.**
-- 🔭 **Currently working on Python scrappers and parsers.**
+- 🔭 **Currently working on Python scrapers and parsers.**
 - 🚹 **Pronounce: He/Him**
 -  ![byond icon](https://avatars.githubusercontent.com/u/4378955?s=16&v=4.png) **White Dream maintainer**
 
