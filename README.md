@@ -2,6 +2,7 @@
 
 - 🌎 **Dev from Izhevsk, Russia.**
 - 🔭 **Currently working on Python scrapers and parsers.**
+- 💼 **Also working on cool CRM system for WB sellers. Check it out [link](https://mpsysteam.ru/)**
 - 🚹 **Pronounce: He/Him**
 -  ![byond icon](https://avatars.githubusercontent.com/u/4378955?s=16&v=4.png) **White Dream maintainer**
 
@@ -15,6 +16,7 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-090909?style=for-the-badge&logo=opengl)
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=092E20)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-090909?style=for-the-badge&logo=scrapy)
 ![Crawlab](https://img.shields.io/badge/-Crawlab-090909?style=for-the-badge&logo=crawlab)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium)
@@ -28,11 +30,14 @@
 ![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.net&logoColor=512BD4)
 
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![BYOND](https://img.shields.io/badge/-BYOND-090909?style=for-the-badge&logo=byond)
 
 ## Toolchain 🛠
 
 ![Visual Code Insiders](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=21b299)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Doxygen](https://img.shields.io/badge/-Doxygen-090909?style=for-the-badge&logo=doxygen)
 
 ![Kali](https://img.shields.io/badge/-Kali-090909?style=for-the-badge&logo=kali-linux)
