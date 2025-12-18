@@ -2,7 +2,7 @@
 
 - 🌎 **Dev from Izhevsk, Russia.**
 - 🔭 **Currently working on Python scrapers and parsers.**
-- 💼 **Also working on cool CRM system for WB sellers. Check it out [link](https://mpsysteam.ru/)**
+- 💼 **Also working on cool CRM system for WB sellers. [Check it out](https://mpsysteam.ru/)**
 - 🚹 **Pronounce: He/Him**
 -  ![byond icon](https://avatars.githubusercontent.com/u/4378955?s=16&v=4.png) **White Dream maintainer**
 
