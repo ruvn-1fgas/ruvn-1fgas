@@ -51,8 +51,8 @@
 
 ## Stats 📊
 
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruvn-1fgas&theme=transparent&show_icons=true&include_all_commits=false&count_private=false&hide_border=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruvn-1fgas&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Github Stats](https://github-stats-extended.vercel.app/api?username=ruvn-1fgas&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ruvn-1fgas&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 <a href="https://www.codewars.com/users/ruvn-1fgas">
     <img style="width: 350px"src="https://github.r2v.ch/codewars?user=ruvn-1fgas&top_languages=true&name=true&theme=gradient" />
@@ -60,7 +60,7 @@
 
 ## Projects 📁
 
-[![Image Deduplicator](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=Image-Deduplicator&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/Image-Deduplicator)
-[![LeetCode Solutions](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode)
-[![LeetCode Saver](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=leetcode-saver&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/leetcode-saver)
-[![White Dream](https://github-readme-stats.vercel.app/api/pin/?username=ruvn-1fgas&repo=white&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/white)
+[![2gis-parser](https://github-stats-extended.vercel.app/api/pin/?username=ruvn-1fgas&repo=2gis-parser&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/2gis-parser)
+[![rv-converter](https://github-stats-extended.vercel.app/api/pin/?username=ruvn-1fgas&repo=rv-converter&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/rv-converter)
+[![byond-patcher](https://github-stats-extended.vercel.app/api/pin/?username=ruvn-1fgas&repo=byond-patcher&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/byond-patcher)
+[![tgdesktop-cache-decrypt](https://github-stats-extended.vercel.app/api/pin/?username=ruvn-1fgas&repo=tgdesktop-cache-decrypt&theme=transparent&hide_border=true)](https://github.com/ruvn-1fgas/tgdesktop-cache-decrypt)
